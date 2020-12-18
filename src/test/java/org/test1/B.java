@@ -15,5 +15,10 @@ public class B {
 		System.out.println("22"+Thread.currentThread().getId());
 
 		}
+	@Test
+	private void Testcase222() {
+		System.out.println("22"+Thread.currentThread().getId());
+
+		}
 
 }
