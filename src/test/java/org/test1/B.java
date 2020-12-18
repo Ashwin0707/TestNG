@@ -16,13 +16,17 @@ public class B {
 
 		}
 	@Test
-	private void Testcase221() {
-		System.out.println("22"+Thread.currentThread().getId());
-
-		}
-	@Test
+	
 	private void Testcase224() {
 		System.out.println("22"+Thread.currentThread().getId());
 
 		}
+	private void Testcase221() {
+		System.out.println("22"+Thread.currentThread().getId());
+
+	
+
+
+		}
+	
 }
